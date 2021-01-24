@@ -2,8 +2,8 @@
 This project joins two csv files
 
 # Input
-File_1.csv from equipment 1 /n
-File_2.csv from equipment 2 /n
+File_1.csv from equipment 1 <br/>
+File_2.csv from equipment 2 <br/>
 Both files need to be joined on Time stamp
 
 # Possible Anomolies 
