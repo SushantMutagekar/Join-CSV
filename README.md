@@ -11,3 +11,9 @@ Both system times may have some offset wrt each other. This needs to be correcte
 
 # Output
 Output file is a csv file containing one time stamp and all collumns of file 1 and corresponding rows of file 2.
+
+# Joining dataframes
+Full Outer join
+Inner Join
+Right Join
+Left Join
